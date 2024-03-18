@@ -1,0 +1,9 @@
+
+APACHE Y PHP
+
+En estas dos carpetas estan las configuraciones que tengo localmente de ambos
+
+INDEX.HTML
+
+En la linea 583 de index.html cambie de contact.php a send_email.php
+Se agrego el script en la linea 607
