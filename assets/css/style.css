@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #cc1616;
+  color: #ff6004;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e82d2d;
+  color: #ff6004;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cc1616;
+  background: #ff6004;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -179,7 +179,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #ff6004;
 }
 
 #header .logo img {
